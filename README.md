@@ -1,5 +1,5 @@
 ## About the project
-It's simple Conway's game of life simulator in 64x64 grid, like many others out there. I made it out of my other project right [here](https://github.com/Blayung/game-of-life.git).
+It's simple Conway's game of life simulator in 64x64 grid, like many others out there. I made it out of my other project right [here](https://github.com/Blayung/ca-physics).
 ## Controls
 **Space ->** Pause / unpause  
 **LMB ->** Make cell alive  
